@@ -4,7 +4,7 @@ Figma Url [Quizz App](https://www.figma.com/file/XDDqcdQtfAd2PaduPkn4Ri/QuizGrad
 
 ## Quizz Api
 
-Figma Url [api]( https://the-trivia-api.com/v2/questions/).
+[api]( https://the-trivia-api.com/v2/questions/).
 
 ## React Loading Bar 
 [Loading bar](https://klendi.github.io/react-top-loading-bar/)
