@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.questions-wrapper {
+    width: 100%;
+    background: #FCC822;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+
+.questions {
+    text-align: center;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: calc(1.5vw + 1rem);
+    padding: calc(2.5vw + 1rem);
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.options-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5rem;
+}
+
+.options {
+    width: 150.065px;
+    height: 84.183px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #D1D1D1;
+    color: #333;
+    font-family: Poppins;
+    font-size: 20.9px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 85.6%;
+    position: relative;
+}
+
+.select {
+    background: #FCC822;
+    color: #ffffff;
+}
+
+small {
+    position: absolute;
+    top: 0.2rem;
+    left: 0.2rem;
+}

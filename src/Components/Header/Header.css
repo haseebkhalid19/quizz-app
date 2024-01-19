@@ -2,3 +2,9 @@ nav {
     justify-content: space-between;
     display: flex;
 }
+
+hr {
+    width: 100%;
+    height: 0.581px;
+    background-color: #ECECE8;
+}
