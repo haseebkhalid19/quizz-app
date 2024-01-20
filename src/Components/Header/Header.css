@@ -8,3 +8,11 @@ hr {
     height: 0.581px;
     background-color: #ECECE8;
 }
+
+header ~ div {
+    top: 86px !important;
+    height: 5px !important;
+}
+header ~ div div{
+    box-shadow: none !important;
+}
